@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "module": "System",
+        "target": "ES6",
+        "rootDir": "./typescript",
+        "outDir": "./source"
+    },
+}
