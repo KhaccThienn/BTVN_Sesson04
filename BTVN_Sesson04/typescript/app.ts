@@ -10,7 +10,7 @@ class ConNguoi {
         this.gioiTinh = gioiTinh;
         this.diaChi = diaChi;
     }
-
+ // 1: nam; 2: nu
     checkGt (): string{
         if (this.gioiTinh == 1) {
             return "Nam";
